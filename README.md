@@ -6,7 +6,7 @@
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <p style="color:#333333" align="justify" > Pulando de cabeça nesta nova carreira de desenvolvedor de sistemas </p>
 
