@@ -5,7 +5,9 @@
 
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.
-> 
+
+<span style="color:blue">some *blue* text</span>.
+
 <p style="color:#333333" align="justify" > Pulando de cabeça nesta nova carreira de desenvolvedor de sistemas </p>
 
 
