@@ -1,6 +1,7 @@
+The background color is `#555ff` for light mode and `#055` for dark mode.
 <h1 align="center"> OLA. Bem Vindo a meu MUNDO!!</h1>
 
-<p color=#555 align="justify" > Pulando de cabeça nesta nova carreira de desenvolvedor de sistemas </p>
+<p align="justify" > Pulando de cabeça nesta nova carreira de desenvolvedor de sistemas </p>
 
 
 <!--
