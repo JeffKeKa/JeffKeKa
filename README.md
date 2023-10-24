@@ -1,6 +1,7 @@
 <h1 align="center"> OLA. Bem Vindo a meu MUNDO!!</h1>
 <span style="color: green"> Pulando de cabeça nesta nova carreira de desenvolvedor de sistemas </span>
 <font color="green"> Some green text </font>
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 <p style="color:#333333" align="justify" > Pulando de cabeça nesta nova carreira de desenvolvedor de sistemas </p>
 
 
