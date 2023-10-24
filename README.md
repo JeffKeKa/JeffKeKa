@@ -1,5 +1,7 @@
 <h1 align="center"> OLA. Bem Vindo a meu MUNDO!!</h1>
 
+<p align="justify" color:#222> Pulando de cabeça nesta nova carreira de desenvolvedor de sistemas </p>
+
 
 <!--
 **JeffKeKa/JeffKeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
