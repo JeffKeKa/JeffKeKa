@@ -1,6 +1,6 @@
 <h1 align="center"> OLA. Bem Vindo a meu MUNDO!!</h1>
 
-<p color="555555" align="justify" > Pulando de cabeça nesta nova carreira de desenvolvedor de sistemas </p>
+<p style="color: green" align="justify" > Pulando de cabeça nesta nova carreira de desenvolvedor de sistemas </p>
 
 
 <!--
