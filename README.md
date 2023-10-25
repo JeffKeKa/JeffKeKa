@@ -6,7 +6,7 @@
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffKeka_icons=true&theme=gotham )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffKeka&show_icons=true&theme=radical)
 
 - [x] Cadastro de usuário
 - [x] Cadastro de cliente
