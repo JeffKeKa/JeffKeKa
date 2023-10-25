@@ -14,7 +14,7 @@
 
 
 
-<p style="color:#333333" align="justify" > Pulando de cabeça nesta nova carreira de desenvolvedor de sistemas </p>
+<p text_color="222222" align="justify" > Pulando de cabeça nesta nova carreira de desenvolvedor de sistemas </p>
 
 
 <!--
