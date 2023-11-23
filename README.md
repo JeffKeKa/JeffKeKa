@@ -1,4 +1,4 @@
-<h1 align="center"> OLA. Bem Vindo a meu MUNDO!!</h1>
+<h1 align="center"> OLA, bem vindo MUNDO!!</h1>
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
